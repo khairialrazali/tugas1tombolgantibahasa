@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tugas1tombolgantibahasa</string>
+
+    <string name="bIngg">What Zul?</string>
+    <string name="bIndo">apa zul?</string>
+    <string name="tmbl_inggris">Translate</string>
+    <string name="tmbl_indo">Terjemahan</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
